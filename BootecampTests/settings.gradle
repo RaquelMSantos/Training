@@ -1,0 +1,2 @@
+rootProject.name='Bootcamp - Tests'
+include ':app'
